@@ -4,8 +4,6 @@ This is a project for college, in order to help a local company with software so
 
 ![UPN LOGO](https://i.postimg.cc/3JXMtmcW/images.png)
 
-![ICOFARMA LOGO](https://i.postimg.cc/Vkmxpvxg/logo.png)
-
 # Files
 
 To make de project you will need to install the nuget package of fonts awesome and also add the dll from the directory **DLL**, into your references in Visual Studio 2022
