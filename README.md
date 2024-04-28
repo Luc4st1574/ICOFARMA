@@ -1,5 +1,11 @@
-# ICOFARMA
+# Welcome to ICOSYSTEM!
 
+This is a project for college, in order to help a local company with software solutions, for the **UPN**.
 
-#THIS PROJECT IS A COLLEGE PROJECT FOR A COMPANY ON A LOCAL BASE
-- Please add all the dll files and also fonts awesome nuget package to your visual studio 2022 to make the program work
+![UPN LOGO](https://ibb.co/1XfqQXh)
+
+![ICOFARMA LOGO](https://ibb.co/Q9JspSj)
+
+# Files
+
+To make de project you will need to install the nuget package of fonts awesome and also add the dll from the directory **DLL**, into your references in Visual Studio 2022
