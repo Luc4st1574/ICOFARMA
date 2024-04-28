@@ -2,9 +2,9 @@
 
 This is a project for college, in order to help a local company with software solutions, for the **UPN**.
 
-![UPN LOGO](https://ibb.co/1XfqQXh)
+![UPN LOGO](https://i.postimg.cc/3JXMtmcW/images.png)
 
-![ICOFARMA LOGO](https://ibb.co/Q9JspSj)
+![ICOFARMA LOGO](https://i.postimg.cc/Vkmxpvxg/logo.png)
 
 # Files
 
