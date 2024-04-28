@@ -1,0 +1,122 @@
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\IcoFarma.exe.config
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\IcoFarma.exe
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\IcoFarma.pdb
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.Login.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.Properties.Resources.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.exe
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.pdb
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.Inicio.resources
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\CapaEntidad.dll.config
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmCategoria.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmUsuarios.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmDetalleCompras.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmDetalleVentas.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmProducto.resources
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\CapaNegocio.dll.config
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\ClosedXML.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\ExcelNumberFormat.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\SixLabors.Fonts.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Buffers.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.IO.Packaging.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Memory.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmClientes.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmProveedores.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmNegocio.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmCompras.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.Modales.mdProveedor.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.Modales.mdProducto.resources
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\itextsharp.xml
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmVentas.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.Modales.mdCliente.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmReporteCompras.resources
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\IcoFarma.frmReporteVentas.resources
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\RestSharp.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.CodeDom.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Data.Odbc.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Data.OleDb.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Drawing.Common.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.IO.Ports.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.Permissions.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\lucas\source\repos\IcoFarma\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\lucas\source\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.Fody.CopyLocal.cache
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\IcoFarma.exe.config
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\IcoFarma.exe
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\IcoFarma.pdb
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\CapaEntidad.dll.config
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\CapaNegocio.dll.config
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\ClosedXML.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\itextsharp.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\RestSharp.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\SixLabors.Fonts.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Buffers.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.CodeDom.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Data.Odbc.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Data.OleDb.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.IO.Ports.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Security.Permissions.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmCategoria.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmClientes.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmCompras.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmDetalleCompras.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmDetalleVentas.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmNegocio.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmProducto.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmProveedores.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmReporteCompras.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmReporteVentas.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmUsuarios.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.frmVentas.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.Inicio.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.Login.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.Modales.mdCliente.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.Modales.mdProducto.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.Modales.mdProveedor.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\CapaPresentacion.csproj.Fody.CopyLocal.cache
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.exe
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\IcoFarma\obj\Debug\IcoFarma.pdb
