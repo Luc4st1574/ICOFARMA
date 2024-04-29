@@ -548,16 +548,6 @@
     <None Include="Resources\lg1.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
-      <Project>{d5d5e257-15a3-4bdc-8fb5-82a0d5777f7b}</Project>
-      <Name>CapaEntidad</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
-      <Project>{f2ccefb6-b067-4ee5-a4e9-1cf1a0881c0a}</Project>
-      <Name>CapaNegocio</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Image1.bmp" />
   </ItemGroup>
   <ItemGroup>
@@ -683,7 +673,18 @@
   <ItemGroup>
     <Content Include="Bunifu_UI_v1.52.dll" />
     <Content Include="logo.ico" />
+    <None Include="Resources\Retry.png" />
     <Content Include="Siticone.UI.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{d5d5e257-15a3-4bdc-8fb5-82a0d5777f7b}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{f2ccefb6-b067-4ee5-a4e9-1cf1a0881c0a}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\Fody.6.5.5\build\Fody.targets" Condition="Exists('packages\Fody.6.5.5\build\Fody.targets')" />
