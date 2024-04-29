@@ -52,7 +52,6 @@ C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debu
 C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
 C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\Microsoft.Win32.SystemEvents.xml
 C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
-C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\RestSharp.xml
 C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\SixLabors.Fonts.xml
 C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\System.Buffers.xml
 C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\System.CodeDom.xml
@@ -134,3 +133,8 @@ D:\1Programas\Ciclo 7\CAPRUSO\Proyecto\ICOFARMA\CapaEntidad\bin\Debug\System.Thr
 D:\1Programas\Ciclo 7\CAPRUSO\Proyecto\ICOFARMA\CapaEntidad\bin\Debug\System.ValueTuple.xml
 D:\1Programas\Ciclo 7\CAPRUSO\Proyecto\ICOFARMA\CapaEntidad\obj\Debug\CapaEntidad.csproj.Fody.CopyLocal.cache
 D:\1Programas\Ciclo 7\CAPRUSO\Proyecto\ICOFARMA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\System.Text.Json.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2022\repos\CapaEntidad\bin\Debug\System.ValueTuple.xml

@@ -14,6 +14,9 @@ namespace IcoFarma
 {
     public partial class Login : Form
     {
+        private int intentos = 0;
+        private int intentosCaptcha = 0;
+
         public Login()
         {
             InitializeComponent();
@@ -59,6 +62,7 @@ namespace IcoFarma
             txtUser.Text = string.Empty;
             txtPass.Text = string.Empty;
             txtCaptcha.Text = string.Empty;
+            intentos = 0;
             GenerarCaptcha();
             this.Show();
             
@@ -68,7 +72,9 @@ namespace IcoFarma
         {
             if (lblCaptcha.Text != txtCaptcha.Text)
             {
-                MessageBox.Show("Captcha incorrecto", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                intentoCaptcha();
+                MessageBox.Show($"Captcha incorrecto, Intentos restantes: {3 - intentosCaptcha}", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtCaptcha.Text = string.Empty;
                 return;
             }
             List<Usuario> Test = new CN_Usuario().Listar();
@@ -96,7 +102,9 @@ namespace IcoFarma
             }
             else
             {
-                MessageBox.Show("Usuario o contraseña incorrectos", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                intentosLogin();
+                MessageBox.Show($"Usuario o contraseña incorrectos. Intentos restantes: {3 - intentos}", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtPass.Text = string.Empty;
             }
 
         }
@@ -114,7 +122,9 @@ namespace IcoFarma
             {
                 if(lblCaptcha.Text != txtCaptcha.Text)
                 {
-                    MessageBox.Show("Captcha incorrecto", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    intentoCaptcha();
+                    MessageBox.Show($"Captcha incorrecto, Intentos restantes: {3-intentosCaptcha}", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    txtCaptcha.Text = string.Empty;
                     return;
                 }
                 List<Usuario> Test = new CN_Usuario().Listar();
@@ -142,7 +152,9 @@ namespace IcoFarma
                 }
                 else
                 {
-                    MessageBox.Show("Usuario o contraseña incorrectos", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    intentosLogin();
+                    MessageBox.Show($"Usuario o contraseña incorrectos. Intentos restantes: {3-intentos}", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    txtPass.Text = string.Empty;
                 }
             }
         }
@@ -188,5 +200,27 @@ namespace IcoFarma
         {
             GenerarCaptcha();
         }
+
+        private void intentosLogin()
+        {
+            intentos++;
+            if (intentos == 3)
+            {
+                MessageBox.Show("Ha superado el número de intentos permitidos", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                this.Close();
+            }
+            txtPass.Text = string.Empty;
+        }   
+
+        private void intentoCaptcha()
+        {
+            intentosCaptcha++;
+            if (intentosCaptcha == 3)
+            {
+                MessageBox.Show("Ha superado el número de intentos permitidos del captcha", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                this.Close();
+            }
+            txtCaptcha.Text = string.Empty;
+        }   
     }
 }
