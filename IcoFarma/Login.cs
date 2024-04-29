@@ -58,12 +58,19 @@ namespace IcoFarma
             
             txtUser.Text = string.Empty;
             txtPass.Text = string.Empty;
+            txtCaptcha.Text = string.Empty;
+            GenerarCaptcha();
             this.Show();
             
         }
 
         private void btnIngresar_Click_1(object sender, EventArgs e)
         {
+            if (lblCaptcha.Text != txtCaptcha.Text)
+            {
+                MessageBox.Show("Captcha incorrecto", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             List<Usuario> Test = new CN_Usuario().Listar();
 
             Usuario usuario = new CN_Usuario().Listar().Where(u => u.NombreCompleto == txtUser.Text && u.Clave == txtPass.Text).
@@ -105,6 +112,11 @@ namespace IcoFarma
         {
             if (e.KeyChar == (char)Keys.Enter)
             {
+                if(lblCaptcha.Text != txtCaptcha.Text)
+                {
+                    MessageBox.Show("Captcha incorrecto", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
                 List<Usuario> Test = new CN_Usuario().Listar();
 
                 Usuario usuario = new CN_Usuario().Listar().Where(u => u.NombreCompleto == txtUser.Text && u.Clave == txtPass.Text).
@@ -147,7 +159,34 @@ namespace IcoFarma
 
         private void Login_Load(object sender, EventArgs e)
         {
+            GenerarCaptcha();
+        }
 
+        private void GenerarCaptcha()
+        {
+            Random rand = new Random();
+            int num = rand.Next(6, 8);
+            string captcha = "";
+            int total = 0;
+            do
+            {
+                int chr = rand.Next(48, 123);
+                if ((chr >= 48 && chr <= 57) || (chr >= 65 && chr <= 90) || (chr >= 97 && chr <= 122))
+                {
+                    captcha = captcha + (char)chr;
+                    total++;
+                    if (total == num)
+                        break;
+
+                }
+            } while (true);
+
+            lblCaptcha.Text = captcha;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            GenerarCaptcha();
         }
     }
 }

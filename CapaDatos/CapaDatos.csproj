@@ -341,14 +341,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
       <Project>{d5d5e257-15a3-4bdc-8fb5-82a0d5777f7b}</Project>
       <Name>CapaEntidad</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="app.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\IcoFarma\packages\Fody.6.5.5\build\Fody.targets" Condition="Exists('..\IcoFarma\packages\Fody.6.5.5\build\Fody.targets')" />
