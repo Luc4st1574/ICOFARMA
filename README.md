@@ -2,7 +2,6 @@
 
 This is a project for college, in order to help a local company with software solutions, for the **UPN**.
 
-=======
 ![UPN LOGO](https://i.postimg.cc/3JXMtmcW/images.png)
 
 # Files
